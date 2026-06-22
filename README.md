@@ -7,8 +7,8 @@ This paper asks whether India's 1991 economic liberalisation accelerated social 
 
 ## Files
 
-- [Working Paper](../files/Working-Paper.pdf)
-- [Replication Package](../files/ESRFL.R)
+- [Working Paper](../main/Working-Paper.pdf)
+- [Replication Package](../main/ESRFL.R)
 
 ## Software
 
